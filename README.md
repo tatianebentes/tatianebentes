@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @tatianebentes
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning web development technologies - HTML and CSS
+- 🌱 I’m currently learning web development - HTML and CSS
 - 💞️ I’m looking to collaborate on new projects
 
 
