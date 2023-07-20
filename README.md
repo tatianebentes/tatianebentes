@@ -1,8 +1,4 @@
-<h2>Welcome to my github</h2>
-
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning web development - HTML and CSS
-- 💞️ I’m looking to collaborate on new projects
+<h2>Welcome to my github</h2> 
 
 <div>
   <a href="https://github.com/tatianebentes">
