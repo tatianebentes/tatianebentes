@@ -1,4 +1,3 @@
-<h2>Welcome to my github</h2> 
 
 ### About me
 
@@ -10,8 +9,11 @@ I'm currently building my foundation in IT Support, Python, Cloud, and Cybersecu
 - Git and GitHub
 - IT Support fundamentals
 - Cloud and Cybersecurity basics
-- 
+  
 <!---
+
+<h2>Welcome to my github</h2> 
+
 <div>
   <a href="https://github.com/tatianebentes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatianebentes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
