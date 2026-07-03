@@ -1,5 +1,17 @@
 <h2>Welcome to my github</h2> 
 
+### About me
+
+I'm Tatiane, an IT student based in Sydney, Australia.  
+I'm currently building my foundation in IT Support, Python, Cloud, and Cybersecurity.
+
+### Currently learning
+- Python
+- Git and GitHub
+- IT Support fundamentals
+- Cloud and Cybersecurity basics
+- 
+<!---
 <div>
   <a href="https://github.com/tatianebentes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatianebentes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -21,6 +33,7 @@
   ![Snake animation](https://github.com/tatianebentes/tatianebentes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+--->
 <!---
 tatianebentes/tatianebentes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
