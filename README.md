@@ -1,15 +1,9 @@
 
 ### About me
 
-I'm Tatiane, an IT student based in Sydney, Australia.  
-I'm currently building my foundation in IT Support, Python, Cloud, and Cybersecurity.
+Junior IT Support | Information Technology Student | Windows • Microsoft 365 • Active Directory • Troubleshooting
 
-### Currently learning
-- Python
-- Git and GitHub
-- IT Support fundamentals
-- Cloud and Cybersecurity basics
-  
+
 <!---
 
 <h2>Welcome to my github</h2> 
