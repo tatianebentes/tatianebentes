@@ -1,5 +1,5 @@
 
-### About me
+About me
 
 Information Technology student based in Sydney, currently building hands-on experience in IT Support and preparing for an entry-level Help Desk / Service Desk role.
 
