@@ -1,8 +1,13 @@
 
 ### About me
 
-Junior IT Support | Information Technology Student | Windows • Microsoft 365 • Active Directory • Troubleshooting
+Information Technology student based in Sydney, currently building hands-on experience in IT Support and preparing for an entry-level Help Desk / Service Desk role.
 
+Current Focus
+Windows • Microsoft 365 • Active Directory • Hardware & Software Troubleshooting • Networking Fundamentals • Virtual Machines
+
+Hands-on Labs
+Documenting practical IT Support labs involving Windows, Active Directory, Microsoft 365 and troubleshooting.
 
 <!---
 
