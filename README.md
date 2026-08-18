@@ -11,6 +11,15 @@ Documenting practical IT Support labs involving Windows, Active Directory, Micro
 
 <!---
 
+Hands-on Labs
+
+Windows Support & Troubleshooting
+Active Directory Administration
+Microsoft 365 Administration
+Virtual Machine Lab
+
+cada um clicável.
+
 <h2>Welcome to my github</h2> 
 
 <div>
